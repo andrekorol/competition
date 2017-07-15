@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/competition.dir/code-forces/811/problem811B.cpp.o CMakeFiles/competition.dir/code-forces/811/sortingProblem811B.cpp.o CMakeFiles/competition.dir/code-forces/813/problem813A.cpp.o CMakeFiles/competition.dir/code-forces/boostTest.cpp.o  -o competition 
