@@ -27,7 +27,7 @@ int main() {
                  boxes[j] = 0;
                  pairs++;
              }
-             
+
          }
     }
     cout << pairs * 2 << '\n';
